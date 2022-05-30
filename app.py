@@ -9,7 +9,6 @@ import av
 import cv2
 import numpy as np
 from time import sleep
-from tensorflow.keras.preprocessing.image import img_to_array
 
 
 
